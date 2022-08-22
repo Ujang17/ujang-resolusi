@@ -3,5 +3,8 @@ RENCANA BELAJAR UJANG
   * Laravel WPU
   * Bikin Aplikasi Kasir Kopi
 - Backend Dicoding
+  * Beli yang 1 Bulan
 - Mobile App Developer Dicoding
+  * Beli yang 1 Bulan
 - Belajar Docker
+- Belajar ReactJS
