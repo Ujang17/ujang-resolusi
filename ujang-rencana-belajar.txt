@@ -1,4 +1,6 @@
 RENCANA BELAJAR UJANG
-- Laravel WPU
+- Laravel
+  * Laravel WPU
+  * Bikin Aplikasi Kasir Kopi
 - Backend Dicoding
 - Mobile App Developer Dicoding
